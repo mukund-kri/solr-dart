@@ -1,0 +1,17 @@
+name: solr_dart
+
+version: 0.0.1
+
+description: Low level solr client for dart
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  http: ^0.12.1
+
+dev_dependencies:
+  test: ^1.15.0
+  mockito: ^4.1.1
+  path: ^1.7.0
+  
